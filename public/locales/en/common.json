@@ -90,8 +90,7 @@
     "title": "Login",
     "emailPlaceholder": "Email",
     "passwordPlaceholder": "Password",
-    "loginButton": "Login",
-    "invalidCredentials": "Invalid email or password"
+    "loginButton": "Login"
   },
   "dashboard": {
     "loadingTitle": "Loading Your Dashboard",
